@@ -1,10 +1,11 @@
 # Simple-WaApi
 Simple Whatsapp-Api Use Venom
 
-USE?
-
-require node 14+
+##require node 14+
 -
+```bash
 gitclone
+cd Simple-WaApi
 npm install
 node index.js
+```
