@@ -1,0 +1,17 @@
+{
+  "name": "mechabot",
+  "version": "1.0.0",
+  "description": "Whatsapp-Api Multi Device",
+  "main": "index.js",
+  "scripts": {
+    "star": "node index.js"
+  },
+  "keywords": [
+    "jerukperas"
+  ],
+  "author": "Errs404",
+  "license": "ISC",
+  "dependencies": {
+    "venom-bot": "^4.2.0"
+  }
+}
